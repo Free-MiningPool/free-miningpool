@@ -29,9 +29,9 @@
                   Our Pools
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item nav-b" href="#">AKA</a>
-                  <a class="dropdown-item nav-b" href="#">CLO</a>
-                  <a class="dropdown-item nav-b" href="#">PGC</a>
+                  <a class="dropdown-item nav-b" href="https://akroma.free-miningpool.com/">AKA</a>
+                  <a class="dropdown-item nav-b" href="https://callisto.free-miningpool.com/">CLO</a>
+                  <a class="dropdown-item nav-b" href="https://pegascoin.free-miningpool.com/">PGC</a>
                 </div>
               </li>
               <li class="nav-item">
