@@ -109,13 +109,13 @@
               <h4 class="foot-title">Our Pools</h4>
               <ul class="nav flex-column">
                 <li class="nav-item">
-                  <a class="nav-link nav-foot" href="#">Akroma</a>
+                  <a class="nav-link nav-foot" href="https://akroma.free-miningpool.com/">Akroma</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nav-foot" href="#">Callisto</a>
+                  <a class="nav-link nav-foot" href="https://callisto.free-miningpool.com/">Callisto</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nav-foot" href="#">PegasCoins</a>
+                  <a class="nav-link nav-foot" href="https://pegascoin.free-miningpool.com/">PegasCoins</a>
                 </li>
               </ul>
             </div>
