@@ -56,7 +56,7 @@
             <img class="card-img-top" src="images/aka_banner.jpg" alt="Card image cap">
             <div class="card-body text-center">
               <h5 class="card-title">Akroma Pool</h5>
-                <a href="#" class="btn btn-pool text-center">Let's mine !</a>
+                <a href="https://akroma.free-miningpool.com/" class="btn btn-pool text-center">Let's mine !</a>
             </div>
           </div>
         </div>
@@ -66,7 +66,7 @@
             <img class="card-img-top" src="images/clo_banner2.png" alt="Card image cap">
             <div class="card-body text-center">
               <h5 class="card-title">Callisto Pool</h5>
-                <a href="#" class="btn btn-pool text-center">Let's mine !</a>
+                <a href="https://callisto.free-miningpool.com" class="btn btn-pool text-center">Let's mine !</a>
             </div>
           </div>
         </div>
@@ -76,7 +76,7 @@
             <img class="card-img-top" src="images/pgc_banner.png" alt="Card image cap">
             <div class="card-body text-center">
               <h5 class="card-title">PegasCoin Pool</h5>
-                <a href="#" class="btn btn-pool text-center">Let's mine !</a>
+                <a href="https://pegascoin.free-miningpool.com" class="btn btn-pool text-center">Let's mine !</a>
             </div>
           </div>
         </div>
