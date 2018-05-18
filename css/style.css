@@ -1,0 +1,57 @@
+html, body{
+  height: 100%;
+  margin:auto;
+}
+
+.logo{
+  height:70px;
+}
+
+.dropdown .dropdown-menu .nav-b:hover{
+  color:#F7931A;
+}
+
+.navbar{
+  background-color: #F0F0F0;
+}
+
+.navbar .navbar-collapse .nav-item .nav-contact{
+  color:#F7931A;
+}
+
+.navbar .navbar-collapse .nav-item .nav-contact:hover{
+  color:#F7931A;
+  text-decoration: underline;
+}
+
+.btn-pool{
+  background-color: #F7931A;
+  color: white;
+}
+
+.btn-pool:hover{
+  background-color: #E28007;
+  color: white;
+}
+
+.pools-title{
+  border-bottom: solid #F7931A 1px;
+  color: #F7931A;
+}
+
+.footer{
+  background-color: #F7931A;
+}
+
+.foot-title{
+  color:white;
+}
+
+.footer .nav-foot{
+  color:white;
+}
+
+.footer .nav-foot:hover{
+  color:white;
+  text-decoration: underline;
+}
