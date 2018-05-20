@@ -8,5 +8,6 @@ free-miningpool.com Website
 Improve axes:
 - Add FAQ
 - Clickable cards
+- Add twitter follow button
 
 Created by free-miningpool team.
