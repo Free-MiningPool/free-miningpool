@@ -123,7 +123,7 @@
             </div>
             <div class="col align-middle">
               <h4 class="foot-title">Contact us !</h4>
-              <a class="nav-foot" href="#">support@free-miningpool.com</a><br><br>
+              <a class="nav-foot" href="mailto:support@free-miningpool.com">support@free-miningpool.com</a><br><br>
               <img class="logo mx-auto d-block float-left" src="images/logo_negatif.png" alt="logo">
             </div>
         </div>
