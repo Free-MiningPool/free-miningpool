@@ -88,15 +88,15 @@
     <div class="container mt-4 mb-5">
 
       <div class="pools-title container mb-4 p-1">
-        <h2 class="pools-h2 text-left mb-0">Our Team</h2>
+        <h2 class="pools-h2 text-left mb-0">About Us</h2>
       </div>
 
       <div class="row mt-2">
 
 	<p class="pr-5 pl-5 text-justify">We are a team of crypto lovers.❤️<br/>
-	Our first goal is providing an highly available and profitable pool!</p>
+	Our first goal is providing a highly available and profitable pool with low fees!</p>
         <p class="pr-5 pl-5 text-justify">We are also miners, so we understand your needs, thats why we do our best to provide this service.</p>
-        <p class="pr-5 pl-5 text-justify">Our team is composed by systems and network engineers.<br/> All our pools are designed to be higly available.</p>
+        <p class="pr-5 pl-5 text-justify">Our team is composed by systems and network engineers.<br/> All our pools are designed to be highly available.</p>
 
       </div>
 
