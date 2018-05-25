@@ -93,8 +93,10 @@
 
       <div class="row mt-2">
 
-        <p class="pr-5 pl-5 text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p class="pr-5 pl-5 text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<p class="pr-5 pl-5 text-justify">We are a team of crypto lovers.❤️<br/>
+	Our first goal is providing an highly available and profitable pool!</p>
+        <p class="pr-5 pl-5 text-justify">We are also miners, so we understand your needs, thats why we do our best to provide this service.</p>
+        <p class="pr-5 pl-5 text-justify">Our team is composed by systems and network engineers.<br/> All our pools are designed to be higly available.</p>
 
       </div>
 
