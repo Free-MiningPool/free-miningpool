@@ -126,6 +126,10 @@
               <a class="nav-foot" href="mailto:support@free-miningpool.com">support@free-miningpool.com</a><br><br>
               <img class="logo mx-auto d-block float-left" src="images/logo_negatif.png" alt="logo">
             </div>
+            <div class="col">
+              <h4 class="foot-title">Stay in touch</h4>
+              <a class="twitter-follow-button" href="https://twitter.com/FMiningpool" data-size="large">Follow @Free-Miningpool</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
         </div>
       </div>
     </div>
