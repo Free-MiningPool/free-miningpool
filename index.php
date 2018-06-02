@@ -31,7 +31,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item nav-b" href="https://akroma.free-miningpool.com/">AKA</a>
                   <a class="dropdown-item nav-b" href="https://callisto.free-miningpool.com/">CLO</a>
-                  <a class="dropdown-item nav-b" href="https://pegascoin.free-miningpool.com/">PGC</a>
+                  <!--<a class="dropdown-item nav-b" href="https://pegascoin.free-miningpool.com/">PGC</a>-->
                 </div>
               </li>
               <li class="nav-item">
@@ -76,7 +76,8 @@
             <img class="card-img-top" src="images/pgc_banner.png" alt="Card image cap">
             <div class="card-body text-center">
               <h5 class="card-title">PegasCoin Pool</h5>
-                <a href="https://pegascoin.free-miningpool.com" class="btn btn-pool text-center">Let's mine !</a>
+                <!--<a href="https://pegascoin.free-miningpool.com" class="btn btn-pool text-center">Let's mine !</a>-->
+		<h6>Coming soon!<h6>
             </div>
           </div>
         </div>
@@ -115,10 +116,10 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link nav-foot" href="https://callisto.free-miningpool.com/">Callisto</a>
-                </li>
+               <!-- </li>
                 <li class="nav-item">
                   <a class="nav-link nav-foot" href="https://pegascoin.free-miningpool.com/">PegasCoins</a>
-                </li>
+                </li>-->
               </ul>
             </div>
             <div class="col align-middle">
