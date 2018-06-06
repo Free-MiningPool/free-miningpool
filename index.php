@@ -2,6 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <meta name="description" content="High profitability mining pool with LOW FEE : ONLY 0.25% !" />
+    <meta name="keywords" content="low, fee, pool, mining, profitable, callisto, clo, coin, cryptocurrency" />
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/png" href="images/Freepool.png" />
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
