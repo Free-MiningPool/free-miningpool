@@ -31,8 +31,9 @@
                   Our Pools
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item nav-b" href="https://akroma.free-miningpool.com/">AKA</a>
+                  <!--<a class="dropdown-item nav-b" href="https://akroma.free-miningpool.com/">AKA</a>-->
                   <a class="dropdown-item nav-b" href="https://callisto.free-miningpool.com/">CLO</a>
+                  <a class="dropdown-item nav-b" href="https://moac.free-miningpool.com/">MOAC</a>
                   <!--<a class="dropdown-item nav-b" href="https://pegascoin.free-miningpool.com/">PGC</a>-->
                 </div>
               </li>
@@ -53,7 +54,7 @@
 
       <div class="row">
 
-        <div class="col sm-6 p-3">
+        <!--<div class="col sm-6 p-3">
           <div class="card">
             <img class="card-img-top" src="images/aka_banner.jpg" alt="Card image cap">
             <div class="card-body text-center">
@@ -61,7 +62,7 @@
                 <a href="https://akroma.free-miningpool.com/" class="btn btn-pool text-center">Let's mine !</a>
             </div>
           </div>
-        </div>
+        </div>-->
 
         <div class="col sm-6 p-3">
           <div class="card">
@@ -75,11 +76,21 @@
 
         <div class="col sm-6 p-3">
           <div class="card">
+            <img class="card-img-top" src="images/moac_banner2.jpg" alt="Card image cap">
+            <div class="card-body text-center">
+              <h5 class="card-title">Moac Pool</h5>
+                <a href="https://moac.free-miningpool.com/" class="btn btn-pool text-center">Let's mine !</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col sm-6 p-3">
+          <div class="card">
             <img class="card-img-top" src="images/pgc_banner.png" alt="Card image cap">
             <div class="card-body text-center">
               <h5 class="card-title">PegasCoin Pool</h5>
                 <!--<a href="https://pegascoin.free-miningpool.com" class="btn btn-pool text-center">Let's mine !</a>-->
-		<h6>Coming soon!<h6>
+		              <h6>Coming soon!<h6>
             </div>
           </div>
         </div>
@@ -113,13 +124,16 @@
             <div class="col">
               <h4 class="foot-title">Our Pools</h4>
               <ul class="nav flex-column">
-                <li class="nav-item">
+                <!--<li class="nav-item">
                   <a class="nav-link nav-foot" href="https://akroma.free-miningpool.com/">Akroma</a>
-                </li>
+                </li>-->
                 <li class="nav-item">
                   <a class="nav-link nav-foot" href="https://callisto.free-miningpool.com/">Callisto</a>
-               <!-- </li>
-                <li class="nav-item">
+               </li>
+               <li class="nav-item">
+                 <a class="nav-link nav-foot" href="https://moac.free-miningpool.com/">Moac</a>
+              </li>
+                <!--<li class="nav-item">
                   <a class="nav-link nav-foot" href="https://pegascoin.free-miningpool.com/">PegasCoins</a>
                 </li>-->
               </ul>
